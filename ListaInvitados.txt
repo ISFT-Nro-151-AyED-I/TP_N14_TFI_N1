@@ -1,0 +1,55 @@
+11100
+Sigourney Weaver
+alienchic@mail.com
+555-490521
+0
+11101
+Tom Cruise
+tomcat@mail.com
+555-696969
+0
+11102
+Jamie Lee Curtis
+jamlc@mail.com
+555-338400
+0
+11103
+Arnold Schwarzenegger
+T-800@mail.com
+555-100100
+1
+11104
+Linda Hamilton
+madgirl@mail.com
+555-666666
+0
+11105
+Silvester Stallone
+rambo@mail.com
+555-456720
+0
+11106
+Michelle Pfeiffer
+miau@mail.com
+555-958251
+0
+11107
+Mel Gibson
+badass@mail.com
+555-650749
+0
+11108
+Harrison Ford
+indie@mail.com
+555-090065
+1
+11109
+Brooke Shields
+ladyinred@mail.com
+555-003467
+1
+11111
+Kim Bassinger
+kimB@mail.com
+555-999301
+0
